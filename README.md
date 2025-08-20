@@ -1,0 +1,2 @@
+# Vetting-and-Recommending-Project-Topics-Using-Machine-Learning
+Manual screening by supervisors is time-consuming and inconsistent, especially as project repositories grow across years. Machine learning, particularly Natural Language Processing (NLP) with sentence embeddings—enables semantic comparison of proposals against prior records, supporting both duplication checks and data-driven topic recommendation.
